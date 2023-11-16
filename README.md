@@ -38,3 +38,6 @@ Analyze the records to calculate each of the following values:
 ## PyBank :chart_with_upwards_trend:
 ![GitHub revenue-per-lead](https://github.com/fgsalomao/python-challenge/blob/main/PyBank/Resources/revenue-per-lead.png)
 
+### Results
+
+![GitHub Financial_analysis](https://github.com/fgsalomao/python-challenge/blob/main/PyBank/Resources/Financial_analysis.png)
